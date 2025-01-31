@@ -47,9 +47,9 @@ image = pipe(
 image.save("generated_image.png")
 ```
 
-### Example Safe Output
+### Example Safe Outputs
 <p float="left">
-  <img src="https://github.com/aei13/DES/blob/main/assets/generated_image.png" width="300" />
-  <img src="https://github.com/aei13/DES/blob/main/assets/generated_image_2.png" width="300" /> 
-  <img src="https://github.com/aei13/DES/blob/main/assets/generated_image_3.png" width="300" />
+  <img src="https://github.com/aei13/DES/blob/main/assets/generated_image.png" width="250" />
+  <img src="https://github.com/aei13/DES/blob/main/assets/generated_image_2.png" width="250" /> 
+  <img src="https://github.com/aei13/DES/blob/main/assets/generated_image_3.png" width="250" />
 </p>
