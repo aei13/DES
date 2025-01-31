@@ -1,8 +1,10 @@
 # Distorting Embedding Space (DES)
 Official Repository of *Distorting Embedding Space for Safety: A Defense Mechanism for Adversarially Robust Diffusion Models*
 
+### Download Model Weight
 You can find `des.pt` in the release section.
 
+### Inference
 Code snippet using .pt file:
 ```
 from diffusers import StableDiffusionPipeline
@@ -44,3 +46,6 @@ image = pipe(
 # Save the generated image
 image.save("generated_image.png")
 ```
+
+### Example Safe Output
+![output](https://github.com/aei13/DES/blob/main/assets/generated_image.png)
