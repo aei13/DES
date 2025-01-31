@@ -2,7 +2,7 @@
 Official Repository of *Distorting Embedding Space for Safety: A Defense Mechanism for Adversarially Robust Diffusion Models*
 
 ### Download Model Weight
-You can find `des.pt` in the release section.
+The model will be available soon.
 
 ### Inference
 Code snippet using .pt file:
